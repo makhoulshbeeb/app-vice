@@ -1,0 +1,6 @@
+[submodule "app-vice-front"]
+	path = app-vice-front
+	url = https://github.com/makhoulshbeeb/app-vice-front.git
+[submodule "app-vice-back"]
+	path = app-vice-back
+	url = https://github.com/makhoulshbeeb/app-vice-back.git
