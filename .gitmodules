@@ -4,3 +4,9 @@
 [submodule "app-vice-back"]
 	path = app-vice-back
 	url = https://github.com/makhoulshbeeb/app-vice-back.git
+[submodule "app-vice-ml"]
+	path = app-vice-ml
+	url = https://github.com/makhoulshbeeb/app-vice-ml.git
+[submodule "dvc-hackathon"]
+	path = dvc-hackathon
+	url = https://github.com/assaad-ali/dvc-hackathon.git
